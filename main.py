@@ -12,6 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     #some awesome feature for feature-1
+    #some new changes in main
     name = input("Enter your name")
     print_hi('name')
 
